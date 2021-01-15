@@ -17,6 +17,7 @@ export const StyledPillBox = styled.View`
 export const StyledMain = styled.View`
   flex: 1;
   flex-direction: row;
+  height:100%;
   background-color: #1c1c1c;
  
 
